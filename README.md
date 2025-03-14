@@ -53,7 +53,7 @@ The device provides a **RESTful HTTP API** for control and status monitoring. Al
 
 Tally Bright relies on the following libraries:  
 
-- **[NetWizard](https://netwizard.pro)**  
+- **[NetWizard](https://github.com/ayushsharma82/NetWizard)**  
 - **WiFi** – by Ivan Grokhotov  
 - **WebServer** – by Ivan Grokhotov  
 - **EEPROM**  
