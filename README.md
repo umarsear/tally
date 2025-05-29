@@ -1,4 +1,4 @@
-# **Tally Bright**  
+# **Tally Bright** Open Source Tally Light System 
 
 Tally Bright is a feedback light solution designed for use with **OSee GoStream Video Mixer** and **Bitfocus Companion**. It provides clear visual status updates for live and preview camera feeds.  
 
